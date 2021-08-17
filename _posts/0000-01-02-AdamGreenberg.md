@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Weather or whether, it doesn't matter."<br>
 Use the left arrow to go back!
